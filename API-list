@@ -1,39 +1,37 @@
-<h2>Version 1: APIs that the extensions supports:</h2>
-
-* Artifactory API Token<br/>
-* Google API Key<br/>
-* Authorization Basic<br/>
-* Authorization Bearer<br/>
-* AWS API Key<br/>
-* Docs Files Exetension<br/>
-* Slack API Key<br/>
-* Basic Auth Credentials<br/>
-* Google Cloud Platform Auth<br/>
-* Google Cloud Platform API<br/>
-* Firebase<br/>
-* Google Oauth<br/>
-* Amazon AWS Access key ID <br/>
-* Amazon MWS Auth Token<br/>
-* Amazon AWS url<br/>
-* Authorization API<br/>
-* Mailgun API Key<br/>
-* Twilio API key<br/>
-* Paypal Braintree Access Token<br/>
-* Square Oauth Secret<br/>
-* Square Access Token<br/>
-* Stripe Standard API<br/>
-* Stripe Restricted API<br/>
-* Github<br/>
-* RSA Private Key<br/>
-* SSH DSA Private Key<br/>
-* SSH EC Private key<br/>
-* PGP Private Block<br/>
-* Artifactory Password<br/>
-* Google Drive Oauth<br/>
-* LinkedIn Secret Key<br/>
-* Twitter Oauth<br/>
-* Twitter Secret Key<br/>
-* Generic API Key<br/>
-* Generic Secret<br/>
-* Saudi Phone number<br/>
-* JSON Web Token<br/>
+Artifactory API Token
+Google API Key
+Authorization Basic
+Authorization Bearer
+AWS API Key
+Docs Files Exetension
+Slack API Key
+Basic Auth Credentials
+Google Cloud Platform Auth
+Google Cloud Platform API
+Firebase
+Google Oauth
+Amazon AWS Access key ID 
+Amazon MWS Auth Token
+Amazon AWS url
+Authorization API
+Mailgun API Key
+Twilio API key
+Paypal Braintree Access Token
+Square Oauth Secret
+Square Access Token
+Stripe Standard API
+Stripe Restricted API
+Github
+RSA Private Key
+SSH DSA Private Key
+SSH EC Private key
+PGP Private Block
+Artifactory Password
+Google Drive Oauth
+LinkedIn Secret Key
+Twitter Oauth
+Twitter Secret Key
+Generic API Key
+Generic Secret
+Saudi Phone number
+JSON Web Token
