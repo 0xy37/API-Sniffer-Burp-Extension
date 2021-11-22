@@ -1,4 +1,7 @@
 # API Sniffer Scanner: Burp Suite Extension to find exposed sensitive information (API keys - Weak Authentications - secret keys).
+# Author : Yara AlHumaidan (0xY37)
+# https://github.com/0xy37/API-Sniffer-Burp-Extension
+
 
 # Code Credits:
 # OpenSecurityResearch CustomPassiveScanner: https://github.com/OpenSecurityResearch/CustomPassiveScanner
