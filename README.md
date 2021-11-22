@@ -11,12 +11,10 @@ This is useful for doing web & mobile pentests and code reviews, because it help
 
 
 <h1>How to install:</h1> 
- <br />
 From the extender tab in burp >> go to extension tab >> press add >> then load the extension 
 <br />
 
 <img width="600" alt="image2021-11-21_10-47-21" src="https://user-images.githubusercontent.com/46480509/142898129-34ff6828-6a7c-4130-bed7-c3d9ce7cadbd.png">
-<br />
 
 After that the extension should be loaded and a message should be printed out as shown below.
  <br />
@@ -25,7 +23,6 @@ After that the extension should be loaded and a message should be printed out as
  <br />
 
 <h1>How to use: </h1> 
- <br />
 * <b>The extension will scan only the URLs that is in scope. so make sure to add the targeted domain in scope. (we will test https://docs.hackerone.com/ as an example)</b>
   * <b>The extension will not start scanning unless you start a passive scan.</b>
 
