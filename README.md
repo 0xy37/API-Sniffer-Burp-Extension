@@ -24,7 +24,7 @@ After that the extension should be loaded and a message should be printed out as
 
 <h1>How to use: </h1> 
 * <b>The extension will scan only the URLs that is in scope. so make sure to add the targeted domain in scope. (we will test https://docs.hackerone.com/ as an example)</b>
-  * <b>The extension will not start scanning unless you start a passive scan.</b>
+* <b>The extension will not start scanning unless you start a passive scan.</b>
 
 
 
