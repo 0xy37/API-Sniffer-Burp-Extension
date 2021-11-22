@@ -12,5 +12,5 @@ This is useful for doing web & mobile pentests and code reviews, because it help
 
 <h1>How to install:</h1> 
 From the extender tab in burp >> go to extension tab >> press add >> then load the extension 
-![image](https://user-images.githubusercontent.com/46480509/142898015-6bb8ec8a-62f9-4ef5-b354-a1283cfb77ab.png)
 
+<img width="407" alt="image2021-11-21_10-47-21" src="https://user-images.githubusercontent.com/46480509/142898129-34ff6828-6a7c-4130-bed7-c3d9ce7cadbd.png">
