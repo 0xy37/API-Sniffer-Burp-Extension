@@ -36,22 +36,22 @@ Yup you guessed it, you might have to interfere with False positives results. th
 
 
 <h2>Version 1: APIs that the extensions supports:</h2>
-Artifactory API Token
-Google API Key
-Authorization Basic
-Authorization Bearer
-AWS API Key
-Docs Files Exetension
-Slack API Key
-Basic Auth Credentials
-Google Cloud Platform Auth
-Google Cloud Platform API
-Firebase
-Google Oauth
-Amazon AWS Access key ID 
-Amazon MWS Auth Token
-Amazon AWS url
-Authorization API
+* Artifactory API Token
+* Google API Key
+* Authorization Basic
+* Authorization Bearer
+* AWS API Key
+* Docs Files Exetension
+* Slack API Key
+* Basic Auth Credentials
+* Google Cloud Platform Auth
+* Google Cloud Platform API
+* Firebase
+* Google Oauth
+* Amazon AWS Access key ID 
+* Amazon MWS Auth Token
+* Amazon AWS url
+* Authorization API
 Mailgun API Key
 Twilio API key
 Paypal Braintree Access Token
