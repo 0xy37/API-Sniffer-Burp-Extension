@@ -11,7 +11,7 @@ This is useful for doing web & mobile pentests and code reviews, because it help
 
 
 <h1>How to install:</h1> 
-From the extender tab in burp >> go to extension tab >> press add >> then load the extension 
+From the extender tab in burp >> go to extension tab >> press add >> then load the extension <br /><br />
 
 
 
