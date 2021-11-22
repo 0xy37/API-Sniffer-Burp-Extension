@@ -35,3 +35,9 @@ Yup you guessed it, you might have to interfere with False positives results. th
 <img width="468" alt="image2021-11-21_11-14-3" src="https://user-images.githubusercontent.com/46480509/142900154-701844a3-2e2a-4237-b13f-1687ebb30bdb.png">
 
 
+<h1>How to exploit API keys</h1>
+
+Each API key will be exploited differently, depending on the API found.</br>
+Below is a great and a very comprehensive reference for how to exploit different API keys.</br>
+
+https://github.com/streaak/keyhacks
