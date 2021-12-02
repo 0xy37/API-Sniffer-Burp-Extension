@@ -1,6 +1,5 @@
 # API-Sniffer-Burp-Extension
-API Sniffer is a burp Suite Extension scanner to find exposed sensitive information (API keys - Weak Authentications - secret keys etc).
-
+API Sniffer is a burp Suite Extension scanner to find exposed sensitive information.
 What is API-Sniffer?
 The API Sniffer extension looks for API keys and credentials on websites that are in <b>scope only!</b>
 
