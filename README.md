@@ -6,8 +6,6 @@ The API Sniffer extension looks for API keys and credentials on websites that ar
 The extension then add the information founded as an issue in the issues section in burp.
 This is useful for doing web & mobile pentests and code reviews, because it helps identify keys that would otherwise either be missed or have to be searched for manually.
 
-<h3>The current version (version 1.0) have 37 regexs to scan- more will be added in the future.</h3>
-
 
 <h1>How to install:</h1> 
 From the extender tab in burp >> go to extension tab >> press add >> then load the extension.
@@ -31,7 +29,7 @@ After that the extension should be loaded and a message should be printed out as
 
 <h1>False positives Alert:</h1>
 Yup you guessed it, you might have to interfere with False positives results. there is always room for improvements. 
-<img width="500" alt="image2021-11-21_11-14-3" src="https://user-images.githubusercontent.com/46480509/142900154-701844a3-2e2a-4237-b13f-1687ebb30bdb.png">
+
 
 
 <h1>How to exploit API keys</h1>
