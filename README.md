@@ -14,25 +14,37 @@ This is useful for doing web & mobile pentests and code reviews, because it help
     <th>Slack Token</th>
     <th>AWS API Key</th>
   </tr>
+  <tr>
+   <th>Slack Webhook</th>
+    <th>Facebook Access Token	</th>
+    <th>Facebook OAuth</th>
+  </tr>
+    <tr>
+   <th>Mailgun API Key</th>
+    <th>Twilio API key</th>
+    <th>Paypal Access Token</th>
+  </tr>
+      <tr>
+   <th>Square Oauth Secret</th>
+    <th>Square Access Token</th>
+    <th>Stripe Standard API</th>
+  </tr>
+   <tr>
+   <th>Stripe Restricted</th>
+    <th>API	Github keys</th>
+    <th>RSA Private Key	</th>
+  </tr>
+     <tr>
+   <th>SSH (EC) private key</th>
+    <th>PGP Private Block</th>
+    <th>Generic API Key</th>
+  </tr>
+  <tr>
+   <th>Generic Secret</th>
+    <th>Saudi National ID</th>
+  </tr>
 </table>
 
-Slack Webhook
-Facebook Access Token	
-Facebook OAuth
-Mailgun API Key	
-Twilio API key
-Paypal Access Token	
-Square Oauth Secret
-Square Access Token	
-Stripe Standard API
-Stripe Restricted 
-API	Github keys
-RSA Private Key	
-SSH (EC) private key
-PGP Private Block	
-Generic API Key
-Generic Secret	
-Saudi National ID
 
 
 <h1>How to install:</h1> 
