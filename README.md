@@ -14,7 +14,8 @@ This is useful for doing web & mobile pentests and code reviews, because it help
     <th>Slack Token</th>
     <th>AWS API Key</th>
   </tr>
- 
+</table>
+
 Slack Webhook
 Facebook Access Token	
 Facebook OAuth
