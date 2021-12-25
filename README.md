@@ -6,6 +6,33 @@ The API Sniffer extension looks for API keys and credentials on websites that ar
 The extension then add the information founded as an issue in the issues section in burp.
 This is useful for doing web & mobile pentests and code reviews, because it helps identify keys that would otherwise either be missed or have to be searched for manually.
 
+<h1>What does the extension capture:</h1> 
+
+<table>
+  <tr>
+    <th>Google API Key</th>
+    <th>Slack Token</th>
+    <th>AWS API Key</th>
+  </tr>
+ 
+Slack Webhook
+Facebook Access Token	
+Facebook OAuth
+Mailgun API Key	
+Twilio API key
+Paypal Access Token	
+Square Oauth Secret
+Square Access Token	
+Stripe Standard API
+Stripe Restricted 
+API	Github keys
+RSA Private Key	
+SSH (EC) private key
+PGP Private Block	
+Generic API Key
+Generic Secret	
+Saudi National ID
+
 
 <h1>How to install:</h1> 
 From the extender tab in burp >> go to extension tab >> press add >> then load the extension.
