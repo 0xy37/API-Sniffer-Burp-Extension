@@ -2,13 +2,7 @@
 API Sniffer is a burp Suite Extension scanner to find exposed sensitive information.
 What is API-Sniffer?
 The API Sniffer extension looks for API keys and credentials on websites that are in <b>scope only!</b>
-<p>
-    ___    ____  ____   _____ _   ____________________________ 
-   /   |  / __ \/  _/  / ___// | / /  _/ ____/ ____/ ____/ __ \
-  / /| | / /_/ // /    \__ \/  |/ // // /_  / /_  / __/ / /_/ /
- / ___ |/ ____// /    ___/ / /|  // // __/ / __/ / /___/ _, _/ 
-/_/  |_/_/   /___/   /____/_/ |_/___/_/   /_/   /_____/_/ |_|  
-  </p>
+
 
 <img width="400" alt="Screenshot 2021-12-22 141737" src="https://user-images.githubusercontent.com/46480509/147383615-60121cbe-50c2-4167-a97c-40d069201d62.png">
 
